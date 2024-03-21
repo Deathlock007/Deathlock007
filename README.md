@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deathlock007&show_icons=true&locale=en&layout=compact" alt="deathlock007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deathlock007&show_icons=true&locale=en" alt="deathlock007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathlock007&" alt="deathlock007" /></p>
