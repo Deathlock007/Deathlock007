@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **VFX,GFX**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/hitesh_h4u](https://linktr.ee/hitesh_h4u)
+- 👨‍💻 All of my social media links and contents are available at [https://linktr.ee/hitesh_h4u](https://linktr.ee/hitesh_h4u)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
