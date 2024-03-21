@@ -1,5 +1,6 @@
 <h1 align="center"> Hii, I'm Hitesh</h1>
-<h3 align="center"> Master of pixels & frames. I design eye-catching graphics & edit engaging videos. A passionate frontend Graphic design from India</h3>
+<h3 align="center">A passionate frontend Graphic design from India</h3>
+<h5 align="center">Master of pixels & frames. I design eye-catching graphics & edit engaging videos.</h5>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
